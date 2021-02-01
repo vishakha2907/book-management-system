@@ -1,4 +1,7 @@
-
+/*
+The SOURCE CODE is given below. First you copy/paste the code and then there is a file handling part. 
+Create two new text files in Notepad name one Book.txt and another is Saved.txt.
+*/
 #include <iostream>
 #include <string>
 #include <fstream>
